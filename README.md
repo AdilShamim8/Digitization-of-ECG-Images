@@ -17,6 +17,3 @@ This repository contains code, experiments, and documentation for reproducing th
 2. Create venv: `python -m venv venv && source venv/bin/activate`
 3. Install: `pip install -r requirements.txt`
 4. Run data check: `python scripts/check_submission.py --sample sample_submission.csv --preds my_submission.csv`
-
-## Citation
-If you use this work, please cite the PhysioNet challenge and the ECG-Image-Kit toolkit.
