@@ -9,3 +9,4 @@ albumentations
 jupyterlab
 notebook
 tqdm 
+TensorFlow
